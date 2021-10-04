@@ -3,6 +3,8 @@ PDS_Piece
 
 Codebase for my first Practical Data Science Tutorial Piece
 
+Dataset from passionate-nlp at Kaggle: https://www.kaggle.com/jp797498e/twitter-entity-sentiment-analysis
+
 Project Organization
 ------------
 
